@@ -125,7 +125,7 @@
 	</div>
 	<!-- PLEASE DO NOT REMOVE THE BUILT BY -->
 	<span class="creator"> Managed by R. Davis. Go Army, Beat Navy. </span>
-	<br/>
+	<br />
 	<!-- PLEASE DO NOT REMOVE THE COPYRIGHT -->
 	<span class="copyright">Code adapted from <a href="http://www.nmelhado.com/">N. Melhado</a> &copy; 2021 - {year} <a href="https://github.com/nmelhado/league-page">League Page</a> </span>
 	<br />
