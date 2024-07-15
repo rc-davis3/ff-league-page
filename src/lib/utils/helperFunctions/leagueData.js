@@ -3,7 +3,7 @@ import {leagueData} from '$lib/stores';
 import { leagueID } from '$lib/utils/leagueInfo';
 
 const YAHOO_API_KEY = 'dj0yJmk9TU82TlV5N1YxS2ttJmQ9WVdrOWFrcGxVbmhKVG1vbWNHbzlNQT09JnM9Y29uc3VtZXJzZWNyZXQmc3Y9MCZ4PTEw';
-const YAHOO_API_URL = 'https://fantasysports.yahooapis.com/fantasy/v2/league/';
+const YAHOO_API_URL = 'https://fantasysports.yahooapis.com/fantasy/v2/league';
 
 export const getLeagueData = async (queryLeagueID = leagueID) => {
 	if(get(leagueData)[queryLeagueID]) {
